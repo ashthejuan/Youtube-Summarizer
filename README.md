@@ -1,5 +1,5 @@
 <h1>YouTube Summarizer</h1>
-<ul>YouTube Summarizer is a Python-based application that extracts transcripts from YouTube videos and generates concise summaries using OpenAI's GPT-3.5 language model.</ul>
+<ul>YouTube Summarizer is a Python-based application that extracts transcripts from YouTube videos and generates concise summaries using Google's Gemini 2.0 Flash language model.</ul>
 
 <h2>Features</h2>
 <ul>
@@ -22,7 +22,7 @@
 </ul>
 
 <h2>Set Up GOOGLE_GEMINI_API_KEY</h2> 
-<h3>Obtain your OpenAI API key and set it as an environment variable</h3>
+<h3>Obtain your Google Gemini API key and set it as an environment variable</h3>
 <ul><li>export GOOGLE_GEMINI_API_KEY='your-api-key'</li></ul>
 <h3>Alternatively, create a .env file in the project directory and add</h3>
 <ul><li>GOOGLE_GEMINI_API_KEY=your-api-key</li></ul>
